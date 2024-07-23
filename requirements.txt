@@ -1,0 +1,9 @@
+torch 
+torchvision 
+torchaudio
+pandas
+transformers
+datasets
+jupyter
+sentencepiece
+transformers[torch]
